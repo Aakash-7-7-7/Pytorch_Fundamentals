@@ -1,0 +1,12 @@
+step 1: conda create -n tf___cpu python=3.11.9
+step 2: conda activate tf___cpu
+step 3: conda install -c conda-forge tensorflow-cpu=2.19.1 numpy=1.26.4 pandas=2.2.2   ---- this is the one we want
+step 4: enjoy
+
+------------------------------------------------------
+For Pytorch 
+
+step 1: conda create -n torch___cpu python=3.11.9
+step 2: conda activate torch__cpu
+step 3: conda install -c conda-forge pytorch-cpu=2.5.1 numpy=1.26.4 pandas=2.2.0   ---- this is the one we want
+step 4: enjoy
